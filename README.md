@@ -1,7 +1,3 @@
-Here’s a concise and professional description for your GitHub README file:
-
----
-
 # Event Management System  
 
 **Event Management System** is a web-based application developed using **PHP**, **MySQL**, **HTML**, and **CSS** 
